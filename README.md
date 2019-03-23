@@ -1,2 +1,2 @@
 # OurSecondGame
-A game being developed by Kostya and Dasha
+A game being developed by Kostya and Dasha and DAD(mostly dad)
