@@ -7,7 +7,7 @@ windowHeight = 600
 
 pygame.init()
 surface = pygame.display.set_mode((windowWidth, windowHeight), pygame.HWSURFACE)
-surface.fill((0,0,0))
+surface.fill((255,255,255))
 snake_image = pygame.image.load("snake.png").convert()
 rabbit_image = pygame.image.load("rabbit.png").convert()
 
